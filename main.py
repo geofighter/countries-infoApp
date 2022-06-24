@@ -26,7 +26,6 @@ def get_countries_info(url):
         list_lang = []
         list_times = []
         data_df = {}
-        language = {}
         try:
             data = get_data_countries(url)
             if data.status_code != 200:
