@@ -11,8 +11,6 @@ Es una aplicación CLI de python que consume datos de la API https://restcountri
 * Se necesita tener instalado virtualenv, para mayor información consulta: https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment
 
 ### Instalación 🔧
-
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 * Es necesario ubicarse dentro de la carpeta principal del proyecto
 * Una vez ubicados se debe crear un entorno virtual para poder instalar las dependencias necesarias del proyecto, ejecutando:
 ```
