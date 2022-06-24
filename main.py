@@ -106,4 +106,4 @@ if __name__ == '__main__':
     print("* Tiempo promedio de procesamiento: " + res[0]['avg_time'])
     print("* Tiempo minimo de procesamiento: " + res[0]['min_time'])
     print("* Tiempo maximo de procesamiento: " + res[0]['max_time'])
-    print("NOTA: para visualizar mejor el contenido de la tabla, consulte la base de datos llamada countries_data.db creada automáticamente o consulte eñ archivo llamado data.json")
+    print("NOTA: para visualizar mejor el contenido de la tabla, consulte la base de datos llamada countries_data.db creada automáticamente o consulte el archivo llamado data.json")
